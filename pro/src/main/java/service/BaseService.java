@@ -6,6 +6,6 @@ public class BaseService  implements IBaseService{
 
 
      public String testService(String text) {
-          return "service2:"+text;
+          return "service3:"+text;
      }
 }
